@@ -31,7 +31,7 @@ def _llm_call(prompt:str):
 
 def _get_collections():
     client = chromadb.PersistentClient(path=CHROMA_PATH)
-    embed_fn = embedding_functions.OllamaEmbeddingFunction(uel=OLLAMA_EMBED_URL, model = MODEL_NAME)
+    embed_fn = embedding_functions.OllamaEmbeddingFunction(url=OLLAMA_EMBED_URL, model_name=MODEL_NAME)
     return client.get_or_create_collection(name=COLLECTION_NAME, embedding_function=embed_fn, metadata={"hnsw:space":"cosine"})
 
 

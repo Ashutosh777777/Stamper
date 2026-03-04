@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "summary": "Conversation about a past interaction with Kiran, where user mentioned returning a scarf",
+    "topics": [
+      "Return of item",
+      "Previous discussion"
+    ],
+    "key_facts": [
+      "Forgot to return a scarf to Kiran"
+    ],
+    "mood": "neutral",
+    "language": "English"
+  },
+  "transcript": {
+    "session_id": "bdc82876-77e4-4d57-8ec8-1d5a1553d926",
+    "name": "Ashutosh",
+    "hobbies": "Reading ",
+    "started_at": "2026-03-04T22:00:28.270781",
+    "turns": [
+      {
+        "turn": 1,
+        "role": "user",
+        "content": "What did I tell you about Kiran?",
+        "timestamp": "2026-03-04T22:00:41.245071"
+      },
+      {
+        "turn": 2,
+        "role": "assistant",
+        "content": "I think we've had a discussion about him before...",
+        "timestamp": "2026-03-04T22:00:45.682166"
+      },
+      {
+        "turn": 3,
+        "role": "user",
+        "content": "Yeah but what did I tell you. I said I forgot to return him something, what was it?",
+        "timestamp": "2026-03-04T22:01:19.877597"
+      },
+      {
+        "turn": 4,
+        "role": "assistant",
+        "content": "I remember now. You mentioned that you forgot to return a scarf to Kiran.",
+        "timestamp": "2026-03-04T22:01:24.409565"
+      },
+      {
+        "turn": 5,
+        "role": "user",
+        "content": "bye",
+        "timestamp": "2026-03-04T22:01:34.606138"
+      },
+      {
+        "turn": 6,
+        "role": "assistant",
+        "content": "Bye! It was great chatting. I'll remember this.",
+        "timestamp": "2026-03-04T22:01:34.606138"
+      }
+    ]
+  }
+}
