@@ -196,7 +196,7 @@ TRANSCRIPT:
 
 
 def _store_in_chroma(structured: dict) -> None:
-    col        = _get_collection()
+    col        = _get_collections()
     session_id = _session["id"]
     date_str   = _session["started_at"][:10]
 
