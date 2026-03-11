@@ -1,0 +1,53 @@
+{
+  "meta": {
+    "summary": "{\n  \"summary\": \"User asked for Hindi riddles for a magazine, jamming as a hobby, conversation became brief and ended with a goodbye.\",\n  \"topics\": [\"riddles\", \"jamming\", \"magazine\"],\n  \"key_facts\": [\" jams as a hobby\", \"interested in more riddles\"],\n  \"mood\": \"positive\",\n  \"language\": \"Hindi\"",
+    "topics": [],
+    "key_facts": [],
+    "mood": "neutral",
+    "language": "en"
+  },
+  "transcript": {
+    "session_id": "058e67f0-c863-47f9-9cf5-5c374378a9d1",
+    "name": "tim",
+    "hobbies": "Jamming",
+    "started_at": "2026-03-11T16:56:11.356460",
+    "turns": [
+      {
+        "turn": 1,
+        "role": "user",
+        "content": "hindi riddles for magazine",
+        "timestamp": "2026-03-11T16:56:39.770120"
+      },
+      {
+        "turn": 2,
+        "role": "assistant",
+        "content": "Jamming, huh? Okay, let's get this party started! So, you want some riddles for that magazine, eh? Alright, here's the first one:\n\n\"Aapne ek sapna dekha, lekin sabhi jude hue. Maine use kab aur kahan dekha?\"\n(You saw a dream, but all the people in it were united. I saw it when and where?)\n\nThink you can crack it, girl?",
+        "timestamp": "2026-03-11T16:56:59.346499"
+      },
+      {
+        "turn": 3,
+        "role": "user",
+        "content": "what were my hobbies again?",
+        "timestamp": "2026-03-11T16:59:48.799358"
+      },
+      {
+        "turn": 4,
+        "role": "assistant",
+        "content": "Girl, you want to know what your vibes are? Okay, let me get this straight... You're into Jamming, and... (thinking) ...you want more riddles for that magazine, right? Am I right?",
+        "timestamp": "2026-03-11T16:59:54.976362"
+      },
+      {
+        "turn": 5,
+        "role": "user",
+        "content": "bye",
+        "timestamp": "2026-03-11T17:00:25.796844"
+      },
+      {
+        "turn": 6,
+        "role": "assistant",
+        "content": "Bye! It was great chatting. I'll remember this.",
+        "timestamp": "2026-03-11T17:00:25.798095"
+      }
+    ]
+  }
+}
