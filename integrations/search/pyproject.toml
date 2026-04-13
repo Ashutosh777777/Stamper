@@ -1,21 +1,20 @@
 [project]
-name = "hawk"
+name = "search"
 version = "0.1.0"
-description = "hawk using crewAI"
+description = "Search using crewAI"
 authors = [{ name = "Your Name", email = "you@example.com" }]
 requires-python = ">=3.10,<3.14"
 dependencies = [
-    "crewai-tools>=1.14.1",
     "crewai[litellm,tools]==1.14.1",
 ]
 
 [project.scripts]
-hawk = "hawk.main:run"
-run_crew = "hawk.main:run"
-train = "hawk.main:train"
-replay = "hawk.main:replay"
-test = "hawk.main:test"
-run_with_trigger = "hawk.main:run_with_trigger"
+search = "search.main:run"
+run_crew = "search.main:run"
+train = "search.main:train"
+replay = "search.main:replay"
+test = "search.main:test"
+run_with_trigger = "search.main:run_with_trigger"
 
 [build-system]
 requires = ["hatchling"]
