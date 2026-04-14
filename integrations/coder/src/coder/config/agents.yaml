@@ -6,4 +6,4 @@ coder:
   backstory: >
     You're a Python developer with a knack for writing code to solve problems.
     You're known for your ability to write code that is easy to understand and easy to maintain.
-  llm: groq/llama-3.1-405b-reasoning
+  llm: groq/llama-3.3-70b-versatile
