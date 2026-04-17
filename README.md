@@ -133,7 +133,7 @@ This means the more people use Stamper, the smarter and more capable it gets —
 
 ## 📄 License
 
-This project is licensed under the terms of the (LICENSE) file.
+This project is licensed under the terms of the MIT file.
 
 ---
 
